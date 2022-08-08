@@ -1,0 +1,29 @@
+
+#field td {
+    border: 2px darkred solid;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#alphabet td {
+    border: 1px blue solid;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#alphabet td:hover {
+    background: gainsboro;
+}
+
+#status,#score1,#score2,#cur_player{
+    color: blue;
+    font-size: 20px;
+}
+
+
